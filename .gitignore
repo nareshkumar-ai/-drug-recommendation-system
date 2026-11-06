@@ -8,6 +8,7 @@ venv/
 .venv/
 env/
 ENV/
+test_env/
 
 # Environment variables and secrets
 .env
@@ -32,10 +33,12 @@ Thumbs.db
 .dir
 *.tmp
 *.bak
+backups/
 
 # Logs
 *.log
 
 # Generated vector database
 faiss_index/
-vectorstore/
+vectorstore/*
+!vectorstore/faiss_gemini/

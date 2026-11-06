@@ -1,0 +1,14 @@
+Flask==2.2.5
+Werkzeug==2.3.8
+pandas==2.3.3
+numpy>=1.26.4
+scikit-learn==1.7.2
+faiss-cpu==1.13.2
+langchain==1.2.9
+langchain-core==1.2.26
+langchain-community==0.4.1
+langchain-huggingface==1.2.0
+langchain-ollama==1.0.1
+sentence-transformers==5.2.2
+ollama==0.6.1
+python-dotenv==1.2.2

@@ -1,0 +1,7 @@
+{
+  "index.faiss": "3e9dc7d99f3089923b7522fe168c4eac9d78a5aa5f56d330728616763a4597b6",
+  "documents.json": "35799735c4bc8a2dc0401c4f96118792944eacc721a7083e903101c9b48c7157",
+  "record_count": 41,
+  "dimension": 768,
+  "metric": "IndexFlatIP_Cosine"
+}

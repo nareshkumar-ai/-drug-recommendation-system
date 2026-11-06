@@ -1,0 +1,330 @@
+[
+  {
+    "id": "0",
+    "page_content": "Disease: Fungal infection\nDescription: Fungal infection is a common skin condition caused by fungi.\nDiet: ['Antifungal Diet', 'Probiotics', 'Garlic', 'Coconut oil', 'Turmeric']\nMedication: ['Antifungal Cream', 'Fluconazole', 'Terbinafine', 'Clotrimazole', 'Ketoconazole']\nWorkout: Avoid sugary foods, Consume probiotics, Increase intake of garlic, Include yogurt in diet, Limit processed foods, Stay hydrated, Consume green tea, Eat foods rich in zinc, Include turmeric in diet, Eat fruits and vegetables\nPrecautions: bath twice, use detol or neem in bathing water, keep infected area dry, use clean cloths",
+    "metadata": {
+      "disease": "Fungal infection",
+      "canonical_disease": "fungal infection"
+    }
+  },
+  {
+    "id": "1",
+    "page_content": "Disease: Allergy\nDescription: Allergy is an immune system reaction to a substance in the environment.\nDiet: ['Elimination Diet', 'Omega-3-rich foods', 'Vitamin C-rich foods', 'Quercetin-rich foods', 'Probiotics']\nMedication: ['Antihistamines', 'Decongestants', 'Epinephrine', 'Corticosteroids', 'Immunotherapy']\nWorkout: Avoid allergenic foods, Consume anti-inflammatory foods, Include omega-3 fatty acids, Stay hydrated, Eat foods rich in vitamin C, Include quercetin-rich foods, Consume local honey, Limit processed foods, Include ginger in diet, Avoid artificial additives\nPrecautions: apply calamine, cover area with bandage, use ice to compress itching",
+    "metadata": {
+      "disease": "Allergy",
+      "canonical_disease": "allergy"
+    }
+  },
+  {
+    "id": "2",
+    "page_content": "Disease: GERD\nDescription: GERD (Gastroesophageal Reflux Disease) is a digestive disorder that affects the lower esophageal sphincter.\nDiet: ['Low-Acid Diet', 'Fiber-rich foods', 'Ginger', 'Licorice', 'Aloe vera juice']\nMedication: ['Proton Pump Inhibitors (PPIs)', 'H2 Blockers', 'Antacids', 'Prokinetics', 'Antibiotics']\nWorkout: Consume smaller meals, Avoid trigger foods (spicy, fatty), Eat high-fiber foods, Limit caffeine and alcohol, Chew food thoroughly, Avoid late-night eating, Consume non-citrus fruits, Include lean proteins, Stay hydrated, Avoid carbonated beverages\nPrecautions: avoid fatty spicy food, avoid lying down after eating, maintain healthy weight, exercise",
+    "metadata": {
+      "disease": "GERD",
+      "canonical_disease": "gerd"
+    }
+  },
+  {
+    "id": "3",
+    "page_content": "Disease: Chronic cholestasis\nDescription: Chronic cholestasis is a condition where bile flow from the liver is reduced for a prolonged period.\nDiet: ['Low-Fat Diet', 'High-Fiber Diet', 'Lean proteins', 'Whole grains', 'Fresh fruits and vegetables']\nMedication: ['Ursodeoxycholic acid', 'Cholestyramine', 'Methotrexate', 'Corticosteroids', 'Liver transplant']\nWorkout: Consume a low-fat diet, Eat high-fiber foods, Include healthy fats, Limit alcohol consumption, Stay hydrated, Consume antioxidant-rich foods, Include omega-3 fatty acids, Include lean proteins, Limit processed foods, Avoid fried foods\nPrecautions: cold baths, anti itch medicine, consult doctor, eat healthy",
+    "metadata": {
+      "disease": "Chronic cholestasis",
+      "canonical_disease": "chronic cholestasis"
+    }
+  },
+  {
+    "id": "4",
+    "page_content": "Disease: Drug Reaction\nDescription: Drug Reaction occurs when the body reacts adversely to a medication.\nDiet: ['Antihistamine Diet', 'Omega-3-rich foods', 'Vitamin C-rich foods', 'Quercetin-rich foods', 'Probiotics']\nMedication: ['Antihistamines', 'Epinephrine', 'Corticosteroids', 'Antibiotics', 'Antifungal Cream']\nWorkout: Discontinue offending medication, Stay hydrated, Include anti-inflammatory foods, Consume antioxidants, Avoid trigger foods, Include omega-3 fatty acids, Limit caffeine and alcohol, Stay hydrated, Eat a balanced diet, Consult a healthcare professional\nPrecautions: stop irritation, consult nearest hospital, stop taking drug, follow up",
+    "metadata": {
+      "disease": "Drug Reaction",
+      "canonical_disease": "drug reaction"
+    }
+  },
+  {
+    "id": "5",
+    "page_content": "Disease: Peptic ulcer disease\nDescription: Peptic ulcer disease involves sores that develop on the inner lining of the stomach and small intestine.\nDiet: ['Low-Acid Diet', 'Fiber-rich foods', 'Ginger', 'Licorice', 'Aloe vera juice']\nMedication: ['Antibiotics', 'Proton Pump Inhibitors (PPIs)', 'H2 Blockers', 'Antacids', 'Cytoprotective agents']\nWorkout: Consume smaller, more frequent meals, Avoid trigger foods (spicy, acidic), Include high-fiber foods, Limit caffeine and alcohol, Stay hydrated, Consume probiotics, Include lean proteins, Include antioxidant-rich foods, Limit processed foods, Avoid smoking and alcohol\nPrecautions: avoid fatty spicy food, consume probiotic food, eliminate milk, limit alcohol",
+    "metadata": {
+      "disease": "Peptic ulcer disease",
+      "canonical_disease": "peptic ulcer disease"
+    }
+  },
+  {
+    "id": "6",
+    "page_content": "Disease: AIDS\nDescription: AIDS (Acquired Immunodeficiency Syndrome) is a disease caused by HIV that weakens the immune system.\nDiet: ['Balanced Diet', 'Protein-rich foods', 'Fruits and vegetables', 'Whole grains', 'Healthy fats']\nMedication: ['Antiretroviral drugs', 'Protease inhibitors', 'Integrase inhibitors', 'Entry inhibitors', 'Fusion inhibitors']\nWorkout: Follow a balanced and nutritious diet, Include lean proteins, Consume nutrient-rich foods, Stay hydrated, Include healthy fats, Avoid raw or undercooked foods, Limit sugary foods and beverages, Consume immune-boosting foods, Take prescribed supplements, Consult a healthcare professional\nPrecautions: avoid open cuts, wear ppe if possible, consult doctor, follow up",
+    "metadata": {
+      "disease": "AIDS",
+      "canonical_disease": "aids"
+    }
+  },
+  {
+    "id": "7",
+    "page_content": "Disease: Diabetes\nDescription: Diabetes is a chronic condition that affects how the body processes blood sugar.\nDiet: ['Low-Glycemic Diet', 'Fiber-rich foods', 'Lean proteins', 'Healthy fats', 'Low-fat dairy']\nMedication: ['Insulin', 'Metformin', 'Sulfonylureas', 'DPP-4 inhibitors', 'GLP-1 receptor agonists']\nWorkout: Monitor carbohydrate intake, Eat balanced meals, Include lean proteins, Consume high-fiber foods, Stay hydrated, Limit sugary foods and beverages, Include healthy fats, Monitor blood sugar levels, Consult a registered dietitian, Take prescribed medications as directed\nPrecautions: have balanced diet, exercise, consult doctor, follow up",
+    "metadata": {
+      "disease": "Diabetes",
+      "canonical_disease": "diabetes"
+    }
+  },
+  {
+    "id": "8",
+    "page_content": "Disease: Gastroenteritis\nDescription: Gastroenteritis is an inflammation of the stomach and intestines, typically caused by a virus or bacteria.\nDiet: ['Bland Diet', 'Bananas', 'Rice', 'Applesauce', 'Toast']\nMedication: ['Antibiotics', 'Antiemetic drugs', 'Antidiarrheal drugs', 'IV fluids', 'Probiotics']\nWorkout: Stay hydrated, Consume clear fluids, Follow the BRAT diet (bananas, rice, applesauce, toast), Include bland foods, Avoid fatty and greasy foods, Limit caffeine and alcohol, Avoid spicy foods, Consult a healthcare professional, Gradually reintroduce solid foods, Avoid dairy products\nPrecautions: stop eating solid food for while, try taking small sips of water, rest, ease back into eating",
+    "metadata": {
+      "disease": "Gastroenteritis",
+      "canonical_disease": "gastroenteritis"
+    }
+  },
+  {
+    "id": "9",
+    "page_content": "Disease: Bronchial Asthma\nDescription: Bronchial Asthma is a respiratory condition characterized by inflammation of the airways.\nDiet: ['Anti-Inflammatory Diet', 'Omega-3-rich foods', 'Fruits and vegetables', 'Whole grains', 'Lean proteins']\nMedication: ['Bronchodilators', 'Inhaled corticosteroids', 'Leukotriene modifiers', 'Mast cell stabilizers', 'Anticholinergics']\nWorkout: Include anti-inflammatory foods, Consume omega-3 fatty acids, Limit sodium intake, Stay hydrated, Include antioxidant-rich foods, Avoid sulfite-containing foods, Limit processed foods, Consume magnesium-rich foods, Consult a healthcare professional, Avoid trigger foods\nPrecautions: switch to loose cloothing, take deep breaths, get away from trigger, seek help",
+    "metadata": {
+      "disease": "Bronchial Asthma",
+      "canonical_disease": "bronchial asthma"
+    }
+  },
+  {
+    "id": "10",
+    "page_content": "Disease: Hypertension\nDescription: Hypertension, or high blood pressure, is a common cardiovascular condition.\nDiet: ['DASH Diet', 'Low-sodium foods', 'Fruits and vegetables', 'Whole grains', 'Lean proteins']\nMedication: ['Antihypertensive medications', 'Diuretics', 'Beta-blockers', 'ACE inhibitors', 'Calcium channel blockers']\nWorkout: Follow the DASH diet (Dietary Approaches to Stop Hypertension), Limit sodium intake, Include potassium-rich foods, Stay hydrated, Consume calcium-rich foods, Limit alcohol consumption, Include magnesium-rich foods, Consume omega-3 fatty acids, Limit processed foods, Consult a healthcare professional\nPrecautions: meditation, salt baths, reduce stress, get proper sleep",
+    "metadata": {
+      "disease": "Hypertension",
+      "canonical_disease": "hypertension"
+    }
+  },
+  {
+    "id": "11",
+    "page_content": "Disease: Migraine\nDescription: Migraine is a type of headache that often involves severe pain and sensitivity to light and sound.\nDiet: ['Migraine Diet', 'Low-Tyramine Diet', 'Caffeine withdrawal', 'Hydration', 'Magnesium-rich foods']\nMedication: ['Analgesics', 'Triptans', 'Ergotamine derivatives', 'Preventive medications', 'Biofeedback']\nWorkout: Identify and avoid trigger foods, Stay hydrated, Include magnesium-rich foods, Consume omega-3 fatty acids, Limit caffeine and alcohol, Consume riboflavin-rich foods, Limit processed foods, Maintain regular meal times, Consult a healthcare professional, Manage stress\nPrecautions: meditation, reduce stress, use poloroid glasses in sun, consult doctor",
+    "metadata": {
+      "disease": "Migraine",
+      "canonical_disease": "migraine"
+    }
+  },
+  {
+    "id": "12",
+    "page_content": "Disease: Cervical spondylosis\nDescription: Cervical spondylosis is a degenerative condition of the cervical spine.\nDiet: ['Arthritis Diet', 'Anti-Inflammatory Diet', 'Omega-3-rich foods', 'Fruits and vegetables', 'Whole grains']\nMedication: ['Pain relievers', 'Muscle relaxants', 'Physical therapy', 'Neck braces', 'Corticosteroids']\nWorkout: Include anti-inflammatory foods, Consume omega-3 fatty acids, Include vitamin D-rich foods, Stay hydrated, Consume antioxidant-rich foods, Limit processed foods, Include lean proteins, Practice good posture, Consult a healthcare professional, Engage in regular exercise\nPrecautions: use heating pad or cold pack, exercise, take otc pain reliver, consult doctor",
+    "metadata": {
+      "disease": "Cervical spondylosis",
+      "canonical_disease": "cervical spondylosis"
+    }
+  },
+  {
+    "id": "13",
+    "page_content": "Disease: Paralysis (brain hemorrhage)\nDescription: Paralysis (brain hemorrhage) refers to the loss of muscle function due to bleeding in the brain.\nDiet: ['Heart-Healthy Diet', 'Low-sodium foods', 'Fruits and vegetables', 'Whole grains', 'Lean proteins']\nMedication: ['Blood thinners', 'Clot-dissolving medications', 'Anticonvulsants', 'Physical therapy', 'Occupational therapy']\nWorkout: Follow a balanced and nutritious diet, Include lean proteins, Consume nutrient-rich foods, Stay hydrated, Include healthy fats, Limit sugary foods and beverages, Include antioxidants, Consume foods rich in vitamin K, Consult a healthcare professional, Manage stress\nPrecautions: massage, eat healthy, exercise, consult doctor",
+    "metadata": {
+      "disease": "Paralysis (brain hemorrhage)",
+      "canonical_disease": "paralysis (brain hemorrhage)"
+    }
+  },
+  {
+    "id": "14",
+    "page_content": "Disease: Jaundice\nDescription: Jaundice is a yellow discoloration of the skin and eyes, often indicating liver problems.\nDiet: ['Liver-Healthy Diet', 'Low-fat Diet', 'Fruits and vegetables', 'Whole grains', 'Lean proteins']\nMedication: ['IV fluids', 'Blood transfusions', 'Liver transplant', 'Medications for itching', 'Antiviral medications']\nWorkout: Stay hydrated, Consume nutrient-rich foods, Include protein-rich foods, Consume easily digestible foods, Limit fatty foods, Avoid alcohol and caffeine, Include vitamin C-rich foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: drink plenty of water, consume milk thistle, eat fruits and high fiberous food, medication",
+    "metadata": {
+      "disease": "Jaundice",
+      "canonical_disease": "jaundice"
+    }
+  },
+  {
+    "id": "15",
+    "page_content": "Disease: Malaria\nDescription: Malaria is a mosquito-borne infectious disease affecting humans and other animals.\nDiet: ['Malaria Diet', 'Hydration', 'High-Calorie Diet', 'Soft and bland foods', 'Oral rehydration solutions']\nMedication: ['Antimalarial drugs', 'Antipyretics', 'Antiemetic drugs', 'IV fluids', 'Blood transfusions']\nWorkout: Stay hydrated, Consume nutrient-rich foods, Include protein-rich foods, Consume foods rich in antioxidants, Limit fatty and greasy foods, Avoid alcohol and caffeine, Include vitamin C-rich foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: Consult nearest hospital, avoid oily food, avoid non veg food, keep mosquitos out",
+    "metadata": {
+      "disease": "Malaria",
+      "canonical_disease": "malaria"
+    }
+  },
+  {
+    "id": "16",
+    "page_content": "Disease: Chicken pox\nDescription: Chicken pox is a highly contagious viral infection causing an itchy rash.\nDiet: ['Chicken Pox Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Antiviral drugs', 'Pain relievers', 'IV fluids', 'Blood transfusions', 'Platelet transfusions']\nWorkout: Stay hydrated, Include easily digestible foods, Include vitamin C-rich foods, Consume protein-rich foods, Include zinc-rich foods, Avoid spicy and acidic foods, Consult a healthcare professional, Practice good hygiene, Rest and conserve energy, Gradually resume normal diet\nPrecautions: use neem in bathing, consume neem leaves, take vaccine, avoid public places",
+    "metadata": {
+      "disease": "Chicken pox",
+      "canonical_disease": "chicken pox"
+    }
+  },
+  {
+    "id": "17",
+    "page_content": "Disease: Dengue\nDescription: Dengue is a mosquito-borne viral infection causing flu-like symptoms.\nDiet: ['Dengue Diet', 'Hydration', 'High-Calorie Diet', 'Soft and bland foods', 'Protein-rich foods']\nMedication: ['Antibiotics', 'Antipyretics', 'Analgesics', 'IV fluids', 'Corticosteroids']\nWorkout: Stay hydrated, Include nutrient-rich foods, Consume foods rich in vitamin C and antioxidants, Limit fatty and greasy foods, Avoid caffeine and alcohol, Include soft and easily digestible foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet, Follow medical recommendations\nPrecautions: drink papaya leaf juice, avoid fatty spicy food, keep mosquitos away, keep hydrated",
+    "metadata": {
+      "disease": "Dengue",
+      "canonical_disease": "dengue"
+    }
+  },
+  {
+    "id": "18",
+    "page_content": "Disease: Typhoid\nDescription: Typhoid is a bacterial infection that can lead to a high fever and gastrointestinal symptoms.\nDiet: ['Typhoid Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Vaccination', 'Antiviral drugs', 'IV fluids', 'Blood transfusions', 'Liver transplant']\nWorkout: Consume easily digestible foods, Stay hydrated, Include nutrient-rich foods, Consume foods rich in vitamin C and antioxidants, Include protein-rich foods, Avoid fatty and greasy foods, Consult a healthcare professional, Gradually resume normal diet, Follow medical recommendations, Avoid alcohol and caffeine\nPrecautions: eat high calorie vegitables, antiboitic therapy, consult doctor, medication",
+    "metadata": {
+      "disease": "Typhoid",
+      "canonical_disease": "typhoid"
+    }
+  },
+  {
+    "id": "19",
+    "page_content": "Disease: hepatitis A\nDescription: hepatitis A is a viral liver disease.\nDiet: ['Hepatitis A Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Vaccination', 'Antiviral drugs', 'IV fluids', 'Blood transfusions', 'Liver transplant']\nWorkout: Stay hydrated, Consume nutrient-rich foods, Include protein-rich foods, Consume easily digestible foods, Limit fatty foods, Avoid alcohol and caffeine, Include vitamin C-rich foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: Consult nearest hospital, wash hands through, avoid fatty spicy food, medication",
+    "metadata": {
+      "disease": "hepatitis A",
+      "canonical_disease": "hepatitis a"
+    }
+  },
+  {
+    "id": "20",
+    "page_content": "Disease: Hepatitis B\nDescription: Hepatitis B is a viral infection that attacks the liver.\nDiet: ['Hepatitis B Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Antiviral drugs', 'IV fluids', 'Blood transfusions', 'Platelet transfusions', 'Liver transplant']\nWorkout: Follow a balanced and nutritious diet, Stay hydrated, Include protein-rich foods, Consume nutrient-rich foods, Limit fatty foods, Avoid alcohol and caffeine, Include vitamin C-rich foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: consult nearest hospital, vaccination, eat healthy, medication",
+    "metadata": {
+      "disease": "Hepatitis B",
+      "canonical_disease": "hepatitis b"
+    }
+  },
+  {
+    "id": "21",
+    "page_content": "Disease: Hepatitis C\nDescription: Hepatitis C is a viral infection that causes liver inflammation.\nDiet: ['Hepatitis C Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Antiviral drugs', 'IV fluids', 'Blood transfusions', 'Platelet transfusions', 'Liver transplant']\nWorkout: Follow a balanced and nutritious diet, Stay hydrated, Include protein-rich foods, Consume nutrient-rich foods, Limit fatty foods, Avoid alcohol and caffeine, Include vitamin C-rich foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: Consult nearest hospital, vaccination, eat healthy, medication",
+    "metadata": {
+      "disease": "Hepatitis C",
+      "canonical_disease": "hepatitis c"
+    }
+  },
+  {
+    "id": "22",
+    "page_content": "Disease: Hepatitis D\nDescription: Hepatitis D is a serious liver disease caused by the hepatitis D virus.\nDiet: ['Hepatitis D Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Antiviral drugs', 'IV fluids', 'Blood transfusions', 'Platelet transfusions', 'Liver transplant']\nWorkout: Follow a balanced and nutritious diet, Stay hydrated, Include protein-rich foods, Consume nutrient-rich foods, Limit fatty foods, Avoid alcohol and caffeine, Include vitamin C-rich foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: consult doctor, medication, eat healthy, follow up",
+    "metadata": {
+      "disease": "Hepatitis D",
+      "canonical_disease": "hepatitis d"
+    }
+  },
+  {
+    "id": "23",
+    "page_content": "Disease: Hepatitis E\nDescription: Hepatitis E is a viral infection that causes liver inflammation.\nDiet: ['Hepatitis E Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Alcohol cessation', 'Corticosteroids', 'IV fluids', 'Liver transplant', 'Nutritional support']\nWorkout: Stay hydrated, Consume nutrient-rich foods, Include protein-rich foods, Consume easily digestible foods, Limit fatty foods, Avoid alcohol and caffeine, Include vitamin C-rich foods, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: stop alcohol consumption, rest, consult doctor, medication",
+    "metadata": {
+      "disease": "Hepatitis E",
+      "canonical_disease": "hepatitis e"
+    }
+  },
+  {
+    "id": "24",
+    "page_content": "Disease: Alcoholic hepatitis\nDescription: Alcoholic hepatitis is inflammation of the liver due to alcohol consumption.\nDiet: ['Liver-Healthy Diet', 'Low-fat Diet', 'Fruits and vegetables', 'Whole grains', 'Lean proteins']\nMedication: ['Antibiotics', 'Isoniazid', 'Rifampin', 'Ethambutol', 'Pyrazinamide']\nWorkout: Avoid alcohol consumption, Follow a balanced and nutritious diet, Stay hydrated, Consume nutrient-rich foods, Include protein-rich foods, Limit fatty foods, Include antioxidants, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet\nPrecautions: stop alcohol consumption, consult doctor, medication, follow up",
+    "metadata": {
+      "disease": "Alcoholic hepatitis",
+      "canonical_disease": "alcoholic hepatitis"
+    }
+  },
+  {
+    "id": "25",
+    "page_content": "Disease: Tuberculosis\nDescription: Tuberculosis is a bacterial infection that primarily affects the lungs.\nDiet: ['TB Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Antipyretics', 'Decongestants', 'Cough suppressants', 'Antihistamines', 'Pain relievers']\nWorkout: Consume a high-protein diet, Include nutrient-rich foods, Stay hydrated, Consume foods rich in vitamins A and C, Include zinc-rich foods, Limit sugary foods and beverages, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet, Follow medical recommendations\nPrecautions: cover mouth, consult doctor, medication, rest",
+    "metadata": {
+      "disease": "Tuberculosis",
+      "canonical_disease": "tuberculosis"
+    }
+  },
+  {
+    "id": "26",
+    "page_content": "Disease: Common Cold\nDescription: Common Cold is a viral infection of the upper respiratory tract.\nDiet: ['Cold Diet', 'Hydration', 'Warm fluids', 'Rest', 'Honey and lemon tea']\nMedication: ['Antibiotics', 'Antiviral drugs', 'Antifungal drugs', 'IV fluids', 'Oxygen therapy']\nWorkout: Stay hydrated, Include nutrient-rich foods, Consume foods rich in vitamin C and antioxidants, Include zinc-rich foods, Limit sugary foods and beverages, Consume chicken soup, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet, Follow medical recommendations\nPrecautions: drink vitamin c rich drinks, take vapour, avoid cold food, keep fever in check",
+    "metadata": {
+      "disease": "Common Cold",
+      "canonical_disease": "common cold"
+    }
+  },
+  {
+    "id": "27",
+    "page_content": "Disease: Pneumonia\nDescription: Pneumonia is an inflammatory condition affecting the air sacs in the lungs.\nDiet: ['Pneumonia Diet', 'High-Calorie Diet', 'Soft and bland foods', 'Hydration', 'Protein-rich foods']\nMedication: ['Laxatives', 'Pain relievers', 'Warm baths', 'Cold compresses', 'High-fiber diet']\nWorkout: Stay hydrated, Include nutrient-rich foods, Consume foods rich in vitamin C and antioxidants, Include zinc-rich foods, Limit sugary foods and beverages, Consume chicken soup, Consult a healthcare professional, Rest and conserve energy, Gradually resume normal diet, Follow medical recommendations\nPrecautions: consult doctor, medication, rest, follow up",
+    "metadata": {
+      "disease": "Pneumonia",
+      "canonical_disease": "pneumonia"
+    }
+  },
+  {
+    "id": "28",
+    "page_content": "Disease: Dimorphic hemmorhoids(piles)\nDescription: Dimorphic hemmorhoids(piles) is a condition characterized by swollen blood vessels in the rectum.\nDiet: ['Hemorrhoids Diet', 'High-Fiber Diet', 'Hydration', 'Warm baths', 'Stool softeners']\nMedication: ['Nitroglycerin', 'Aspirin', 'Beta-blockers', 'Calcium channel blockers', 'Thrombolytic drugs']\nWorkout: Consume high-fiber foods, Stay hydrated, Include nutrient-rich foods, Consume foods rich in flavonoids, Limit processed foods, Avoid spicy and greasy foods, Consult a healthcare professional, Practice good hygiene, Gradually resume normal diet, Follow medical recommendations\nPrecautions: avoid fatty spicy food, consume witch hazel, warm bath with epsom salt, consume alovera juice",
+    "metadata": {
+      "disease": "Dimorphic hemmorhoids(piles)",
+      "canonical_disease": "dimorphic hemmorhoids(piles)"
+    }
+  },
+  {
+    "id": "29",
+    "page_content": "Disease: Heart attack\nDescription: Heart attack is a sudden and severe reduction in blood flow to the heart muscle.\nDiet: ['Heart-Healthy Diet', 'Low-sodium foods', 'Fruits and vegetables', 'Whole grains', 'Lean proteins']\nMedication: ['Compression stockings', 'Exercise', 'Elevating the legs', 'Sclerotherapy', 'Laser treatments']\nWorkout: Follow a heart-healthy diet, Limit sodium intake, Include fiber-rich foods, Consume healthy fats, Include lean proteins, Limit sugary foods and beverages, Stay hydrated, Consult a healthcare professional, Follow medical recommendations, Engage in regular exercise\nPrecautions: call ambulance, chew or swallow asprin, keep calm",
+    "metadata": {
+      "disease": "Heart attack",
+      "canonical_disease": "heart attack"
+    }
+  },
+  {
+    "id": "30",
+    "page_content": "Disease: Varicose veins\nDescription: Varicose veins are enlarged, twisted veins that usually appear on the legs.\nDiet: ['Varicose Veins Diet', 'High-Fiber Diet', 'Fruits and vegetables', 'Whole grains', 'Low-sodium foods']\nMedication: ['Levothyroxine', 'Antithyroid medications', 'Beta-blockers', 'Radioactive iodine', 'Thyroid surgery']\nWorkout: Consume a high-fiber diet, Stay hydrated, Include nutrient-rich foods, Consume foods rich in antioxidants, Limit sodium intake, Include flavonoid-rich foods, Avoid standing or sitting for long periods, Consult a healthcare professional, Follow medical recommendations, Engage in regular exercise\nPrecautions: lie down flat and raise the leg high, use oinments, use vein compression, dont stand still for long",
+    "metadata": {
+      "disease": "Varicose veins",
+      "canonical_disease": "varicose veins"
+    }
+  },
+  {
+    "id": "31",
+    "page_content": "Disease: Hypothyroidism\nDescription: Hypothyroidism is a condition where the thyroid gland doesn't produce enough thyroid hormone.\nDiet: ['Hypothyroidism Diet', 'Iodine-rich foods', 'Selenium-rich foods', 'Fruits and vegetables', 'Whole grains']\nMedication: ['Antithyroid medications', 'Radioactive iodine', 'Thyroid surgery', 'Beta-blockers', 'Corticosteroids']\nWorkout: Include iodine-rich foods, Consume selenium-rich foods, Stay hydrated, Include nutrient-rich foods, Limit processed foods, Consume foods rich in vitamins B and D, Consult a healthcare professional, Follow medical recommendations, Maintain a stable weight, Engage in regular exercise\nPrecautions: reduce stress, exercise, eat healthy, get proper sleep",
+    "metadata": {
+      "disease": "Hypothyroidism",
+      "canonical_disease": "hypothyroidism"
+    }
+  },
+  {
+    "id": "32",
+    "page_content": "Disease: Hyperthyroidism\nDescription: Hyperthyroidism is a condition where the thyroid gland produces too much thyroid hormone.\nDiet: ['Hyperthyroidism Diet', 'Low-Iodine Diet', 'Calcium-rich foods', 'Selenium-rich foods', 'Fruits and vegetables']\nMedication: ['Glucose tablets', 'Candy or juice', 'Glucagon injection', 'IV dextrose', 'Diazoxide']\nWorkout: Limit iodine intake, Consume cruciferous vegetables in moderation, Stay hydrated, Include nutrient-rich foods, Limit caffeine and alcohol, Include omega-3 fatty acids, Consult a healthcare professional, Follow medical recommendations, Maintain a stable weight, Engage in regular exercise\nPrecautions: eat healthy, massage, use lemon balm, take radioactive iodine treatment",
+    "metadata": {
+      "disease": "Hyperthyroidism",
+      "canonical_disease": "hyperthyroidism"
+    }
+  },
+  {
+    "id": "33",
+    "page_content": "Disease: Hypoglycemia\nDescription: Hypoglycemia is a condition characterized by abnormally low blood sugar levels.\nDiet: ['Hypoglycemia Diet', 'Complex carbohydrates', 'Protein-rich snacks', 'Fiber-rich foods', 'Healthy fats']\nMedication: ['Pain relievers', 'Exercise', 'Hot and cold packs', 'Joint protection', 'Physical therapy']\nWorkout: Consume complex carbohydrates, Include protein-rich foods, Stay hydrated, Limit sugary foods and beverages, Consume regular meals and snacks, Consult a healthcare professional, Monitor blood sugar levels, Follow medical recommendations, Engage in regular physical activity, Limit alcohol intake\nPrecautions: lie down on side, check in pulse, drink sugary drinks, consult doctor",
+    "metadata": {
+      "disease": "Hypoglycemia",
+      "canonical_disease": "hypoglycemia"
+    }
+  },
+  {
+    "id": "34",
+    "page_content": "Disease: Osteoarthristis\nDescription: Osteoarthristis is a degenerative joint disease that affects the cartilage in joints.\nDiet: ['Arthritis Diet', 'Anti-Inflammatory Diet', 'Omega-3-rich foods', 'Fruits and vegetables', 'Whole grains']\nMedication: ['NSAIDs', 'Disease-modifying antirheumatic drugs (DMARDs)', 'Biologics', 'Corticosteroids', 'Joint replacement surgery']\nWorkout: Consume anti-inflammatory foods, Include omega-3 fatty acids, Consume antioxidant-rich foods, Stay hydrated, Limit processed foods, Include vitamin K-rich foods, Consult a healthcare professional, Follow medical recommendations, Engage in low-impact exercise, Maintain a healthy weight\nPrecautions: acetaminophen, consult nearest hospital, follow up, salt baths",
+    "metadata": {
+      "disease": "Osteoarthristis",
+      "canonical_disease": "osteoarthristis"
+    }
+  },
+  {
+    "id": "35",
+    "page_content": "Disease: Arthritis\nDescription: Arthritis is inflammation of one or more joints, causing pain and stiffness.\nDiet: ['Arthritis Diet', 'Anti-Inflammatory Diet', 'Omega-3-rich foods', 'Fruits and vegetables', 'Whole grains']\nMedication: ['Vestibular rehabilitation', 'Canalith repositioning', 'Medications for nausea', 'Surgery', 'Home exercises']\nWorkout: Consume anti-inflammatory foods, Include omega-3 fatty acids, Consume antioxidant-rich foods, Stay hydrated, Limit processed foods, Include vitamin K-rich foods, Consult a healthcare professional, Follow medical recommendations, Engage in low-impact exercise, Maintain a healthy weight\nPrecautions: exercise, use hot and cold therapy, try acupuncture, massage",
+    "metadata": {
+      "disease": "Arthritis",
+      "canonical_disease": "arthritis"
+    }
+  },
+  {
+    "id": "36",
+    "page_content": "Disease: (vertigo) Paroymsal Positional Vertigo\nDescription: (Vertigo) Paroxysmal Positional Vertigo is a type of dizziness caused by specific head movements.\nDiet: ['Vertigo Diet', 'Low-Salt Diet', 'Hydration', 'Ginger tea', 'Vitamin D-rich foods']\nMedication: ['Topical treatments', 'Antibiotics', 'Oral medications', 'Hormonal treatments', 'Isotretinoin']\nWorkout: Avoid trigger foods (caffeine, alcohol), Limit sodium intake, Stay hydrated, Consume ginger and ginkgo biloba, Limit artificial sweeteners, Consult a healthcare professional, Avoid sudden head movements, Follow medical recommendations, Manage stress, Limit caffeine and stimulants\nPrecautions: lie down, avoid sudden change in body, avoid abrupt head movment, relax",
+    "metadata": {
+      "disease": "(vertigo) Paroymsal Positional Vertigo",
+      "canonical_disease": "(vertigo) paroymsal positional vertigo"
+    }
+  },
+  {
+    "id": "37",
+    "page_content": "Disease: Acne\nDescription: Acne is a skin condition that occurs when hair follicles become clogged with oil and dead skin cells.\nDiet: ['Acne Diet', 'Low-Glycemic Diet', 'Hydration', 'Fruits and vegetables', 'Probiotics']\nMedication: ['Antibiotics', 'Pain relievers', 'Antihistamines', 'Corticosteroids', 'Topical treatments']\nWorkout: Consume a balanced diet, Limit dairy and high-glycemic foods, Include antioxidants, Stay hydrated, Limit processed foods, Include zinc-rich foods, Consult a skincare professional, Practice good skincare hygiene, Limit sugary foods and beverages, Follow medical recommendations\nPrecautions: bath twice, avoid fatty spicy food, drink plenty of water, avoid too many products",
+    "metadata": {
+      "disease": "Acne",
+      "canonical_disease": "acne"
+    }
+  },
+  {
+    "id": "38",
+    "page_content": "Disease: Urinary tract infection\nDescription: Urinary tract infection is an infection in any part of the urinary system.\nDiet: ['UTI Diet', 'Hydration', 'Cranberry juice', 'Probiotics', 'Vitamin C-rich foods']\nMedication: ['Antibiotics', 'Urinary analgesics', 'Phenazopyridine', 'Antispasmodics', 'Probiotics']\nWorkout: Stay hydrated, Consume cranberry products, Include vitamin C-rich foods, Limit caffeine and alcohol, Consume probiotics, Avoid spicy and acidic foods, Consult a healthcare professional, Follow medical recommendations, Maintain good hygiene, Limit sugary foods and beverages\nPrecautions: drink plenty of water, increase vitamin c intake, drink cranberry juice, take probiotics",
+    "metadata": {
+      "disease": "Urinary tract infection",
+      "canonical_disease": "urinary tract infection"
+    }
+  },
+  {
+    "id": "39",
+    "page_content": "Disease: Psoriasis\nDescription: Psoriasis is a chronic skin condition characterized by red, itchy, and scaly patches.\nDiet: ['Psoriasis Diet', 'Anti-Inflammatory Diet', 'Omega-3-rich foods', 'Fruits and vegetables', 'Whole grains']\nMedication: ['Topical treatments', 'Phototherapy', 'Systemic medications', 'Biologics', 'Coal tar']\nWorkout: Consume anti-inflammatory foods, Include omega-3 fatty acids, Include vitamin D analogues, Limit alcohol consumption, Stay hydrated, Consult a healthcare professional, Limit processed foods, Follow medical recommendations, Manage stress, Consider phototherapy under medical guidance\nPrecautions: wash hands with warm soapy water, stop bleeding using pressure, consult doctor, salt baths",
+    "metadata": {
+      "disease": "Psoriasis",
+      "canonical_disease": "psoriasis"
+    }
+  },
+  {
+    "id": "40",
+    "page_content": "Disease: Impetigo\nDescription: Impetigo is a highly contagious skin infection causing red sores that can break open.\nDiet: ['Impetigo Diet', 'Antibiotic treatment', 'Fruits and vegetables', 'Hydration', 'Protein-rich foods']\nMedication: ['Topical antibiotics', 'Oral antibiotics', 'Antiseptics', 'Ointments', 'Warm compresses']\nWorkout: Maintain good hygiene, Stay hydrated, Consume nutrient-rich foods, Limit sugary foods and beverages, Include foods rich in vitamin C, Consult a healthcare professional, Follow medical recommendations, Avoid scratching, Take prescribed antibiotics, Practice wound care\nPrecautions: soak affected area in warm water, use antibiotics, remove scabs with wet compressed cloth, consult doctor",
+    "metadata": {
+      "disease": "Impetigo",
+      "canonical_disease": "impetigo"
+    }
+  }
+]

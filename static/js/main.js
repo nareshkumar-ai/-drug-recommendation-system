@@ -124,9 +124,16 @@ $(document).ready(function () {
                 $loadingMsg.remove();
                 appendMessage('bot', response.response);
             },
-            error: function () {
+            error: function (xhr) {
                 $loadingMsg.remove();
-                appendMessage('bot', "I'm sorry, I encountered an error. Please try again.");
+
+                let displayMsg = "I'm sorry, I encountered a temporary error. Please try again shortly or consult a healthcare professional.";
+
+                if (xhr.status === 429) {
+                    displayMsg = "The AI assistant is temporarily busy. Please wait a moment and try again.";
+                }
+
+                appendMessage('bot', displayMsg);
             }
         });
     }
