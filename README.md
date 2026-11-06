@@ -1,5 +1,13 @@
 # Drug Recommendation System with ML Disease Prediction and RAG Chatbot
 
+## 🚀 Live Demo
+
+**Try the deployed application here:**
+
+[Drug Recommendation System – Live Application](https://drug-recommendation-system-klxs.onrender.com/)
+
+**Deployment Platform:** Render
+
 An AI-powered healthcare assistant application that combines **Supervised Machine Learning (Gradient Boosting)** for symptom-based disease diagnosis with a **Dual-Mode Retrieval-Augmented Generation (RAG)** chatbot powered by **LangChain, FAISS, Google Gemini (Cloud), and Ollama (Local)**.
 
 ---
